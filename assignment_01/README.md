@@ -45,3 +45,11 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 - Create a proper GitHub directory and subdirectories with clear naming conventions and README.
 - Record a video demonstrating each app, explaining how it was done, and upload it along with all the artifacts.
 - Ensure your demonstration is original and not a copy of default demos.
+
+## Assignment Deliverables
+
+TODO
+
+## References
+
+TODO

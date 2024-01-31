@@ -40,7 +40,7 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 - Customize the above for various other ideas. Consider consulting ChatGPT for help with coding and novel ideas.
 - More hints can be found [here](https://developers.google.com/learn/topics/on-device-ml#build-your-first-on-device-ml-app). Try out 5 different varied scenarios, like text, image, object.
 
-### Notes
+#### Notes
 
 - Create a proper GitHub directory and subdirectories with clear naming conventions and README.
 - Record a video demonstrating each app, explaining how it was done, and upload it along with all the artifacts.
@@ -48,7 +48,17 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 
 ## Assignment Deliverables
 
-TODO
+### Part 01 Deliverables
+
+### Part 02 Deliverables
+
+### Part 03 Deliverables
+
+### Part 04 Deliverables
+
+### Part 05 Deliverables
+
+### Part 06 Deliverables
 
 ## References
 

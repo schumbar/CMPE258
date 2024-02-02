@@ -49,9 +49,11 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 ## Assignment Deliverables
 
 ### Part 01 Deliverables
+
 1. [Image: Animal Classification Model](https://teachablemachine.withgoogle.com/models/lOeC4qDiP/)
 2. [Pose: Yoga Posture Classification](https://teachablemachine.withgoogle.com/models/oDNNQbcIu/)
 3. [Audio: Hi vs. Hello (Self-Recorded)](https://teachablemachine.withgoogle.com/models/McK_mlDAC/)
+
 ### Part 02 Deliverables
 
 ### Part 03 Deliverables
@@ -63,7 +65,8 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 ### Part 06 Deliverables
 
 ## References
+
 Part 01 References:
+
 1. Animals Dataset: https://www.kaggle.com/datasets/antobenedetti/animals
 2. Yoga Posture Dataset (cleaned): https://www.kaggle.com/datasets/suradechk/yoga-posture-cleaned
-3. 

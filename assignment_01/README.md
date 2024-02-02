@@ -50,8 +50,8 @@ Please note that there are 6 parts to this assignment, which are labeled below.
 
 ### Part 01 Deliverables
 1. [Image: Animal Classification Model](https://teachablemachine.withgoogle.com/models/lOeC4qDiP/)
-2. [Pose: Yoga Posture Classification]()
-3. [Audio: TODO]()
+2. [Pose: Yoga Posture Classification](https://teachablemachine.withgoogle.com/models/oDNNQbcIu/)
+3. [Audio: Hi vs. Hello (Self-Recorded)](https://teachablemachine.withgoogle.com/models/McK_mlDAC/)
 ### Part 02 Deliverables
 
 ### Part 03 Deliverables

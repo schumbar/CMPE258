@@ -23,12 +23,17 @@
 
 ### Part 01 Deliverables
 
+Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01` folder.
+
 1. [Image: Animal Classification Model](https://teachablemachine.withgoogle.com/models/lOeC4qDiP/)
 2. [Pose: Yoga Posture Classification](https://teachablemachine.withgoogle.com/models/oDNNQbcIu/)
 3. [Audio: Hi vs. Hello (Self-Recorded)](https://teachablemachine.withgoogle.com/models/McK_mlDAC/)
-4. image.png: Screenshot showing image portion of assignment.
-5. pose.png: Screenshot showing pose portion of assignment.
-6. audio.png: Screenshot showing audio portion of assignment.
+4. `part_01/image/image.png`: Screenshot showing image portion of assignment.
+5. `part_01/pose/pose.png`: Screenshot showing pose portion of assignment.
+6. `part_01/audio/audio.png`: Screenshot showing audio portion of assignment.
+7. `part_01/audio/Assignment01_AudioModel.tm`: Model file for the audio portion of the assignment.
+8. `part_01/image/Assignment01_ImageModel.tm`: Model file for the image portion of the assignment.
+9. `part_01/pose/Assignment01_PoseModel.tm`: Model file for the pose portion of the assignment.  
 
 ## References
 

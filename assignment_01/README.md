@@ -26,6 +26,9 @@
 1. [Image: Animal Classification Model](https://teachablemachine.withgoogle.com/models/lOeC4qDiP/)
 2. [Pose: Yoga Posture Classification](https://teachablemachine.withgoogle.com/models/oDNNQbcIu/)
 3. [Audio: Hi vs. Hello (Self-Recorded)](https://teachablemachine.withgoogle.com/models/McK_mlDAC/)
+4. image.png: Screenshot showing image portion of assignment.
+5. pose.png: Screenshot showing pose portion of assignment.
+6. audio.png: Screenshot showing audio portion of assignment.
 
 ## References
 

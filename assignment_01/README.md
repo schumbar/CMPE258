@@ -31,5 +31,5 @@
 
 Part 01 References:
 
-1. Animals Dataset: https://www.kaggle.com/datasets/antobenedetti/animals
-2. Yoga Posture Dataset (cleaned): https://www.kaggle.com/datasets/suradechk/yoga-posture-cleaned
+1. [Animals Dataset](https://www.kaggle.com/datasets/antobenedetti/animals)
+2. [Yoga Posture Dataset - Cleaned](https://www.kaggle.com/datasets/suradechk/yoga-posture-cleaned)

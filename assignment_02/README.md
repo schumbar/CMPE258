@@ -22,7 +22,7 @@ Your assignment should reflect your ability to replicate and creatively extend t
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_02` folder.
 
-1. data: Folder containing the PDF data that was used for the RAG portion of the assignment.
+1. `data`: Folder containing the PDF data that was used for the RAG portion of the assignment.
 2. `CMPE258_assignment02_part_A.ipynb`: Python notebook for the Tokenization portion of the assignment.
 3. `CMPE258_assignment02_part_B.ipynb`: Python notebook for the OpenAI API portion of the assignment.
 4. `CMPE258_assignment02_part_C.ipynb`: Python notebook for the Code Interpretter portion of the assignment.

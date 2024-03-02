@@ -46,6 +46,7 @@ Please see below for the list of deliverables that have been submitted for this 
 Please note that all deliverables are under the `assignment_03` folder.
 
 1. TODO
+2. tumblr_moveast.jpg: picture used for the huggingface portion of the assignment. [Source](https://moveast.me/)
 
 ## References Used
 

@@ -45,17 +45,22 @@ Be sure to write a README.md file and create a proper GitHub directory structure
 Please see below for the list of deliverables that have been submitted for this assignment.
 Please note that all deliverables are under the `assignment_03` folder.
 
-1. TODO
-2. tumblr_moveast.jpg: picture used for the huggingface portion of the assignment. [Source](https://moveast.me/)
+1. `README.md`: File containing assignment description and list of deliverables.
+2. `data`: folder containing all of the data related to this assignment.
+3. `CMPE258_assignment03_part_A.ipynb`: Google Colab notebook related to part A of the assignment - fastAI
+4. `CMPE258_assignment03_part_B.ipynb`: Google Colab notebook related to Part B of the assignment - HuggingFace Transformers
+5. `CMPE258_assignment03_part_C.ipynb`: Google Colab notebook related to Part C of the assignment - Keras-NLP
+6. `CMPE258_assignment03_part_D.ipynb`: Google Colab notebook related to Part D of the assignment - Keras-CV
 
 ## References Used
 
+Please see below for a list of references that were used for this assignment.
+
 1. [FastAI Introduction Colab](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
 2. [Getting Started With Transformers Colab](https://colab.research.google.com/github/huggingface/education-toolkit/blob/main/03_getting-started-with-transformers.ipynb)
-
 3. [Getting Started with KerasNLP Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_nlp/getting_started.ipynb)
 4. [Classification with KerasCV Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_cv/classification_with_keras_cv.ipynb)
-
 5. [Classification with KerasCV](https://keras.io/guides/keras_cv/classification_with_keras_cv/)
 6. [Object Detection with KerasCV Guide](https://keras.io/guides/keras_cv/object_detection_keras_cv/)
 7. [Object Detection with KerasCV Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_cv/object_detection_keras_cv.ipynb)
+8. ChatGPT, Claude.ai, and Google Gemini to help with debugging code.

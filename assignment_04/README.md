@@ -17,7 +17,7 @@ Please note that all deliverables are under the `assignment_04` folder.
 1. `CMPE258_assignment04_part_A.ipynb`: Python notebook related to part A of the assignment - AI agents using python.
 2. `CMPE258_assignment04_part_B.ipynb`: Python notebook related to part A of the assignment - AI agents using LangChain
 3. `README.md`: File containing information about assignment description and assignment deliverables.
-4. [Demo Video Link](TODO)
+4. [Demo Video Link](https://youtu.be/tieKT4fJxs0)
 
 ## References Used
 

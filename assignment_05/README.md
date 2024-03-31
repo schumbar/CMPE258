@@ -22,7 +22,7 @@ a) Write a colab numpy only from scratch 3 layer deep neural network for non lin
 
 Hint:
 
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
+https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz Links to an external site.
 
 b) Write a colab pytorch from scratch - 3 layer deep neural network for non linear regression withotu using pytorch builtin layer functionality
 

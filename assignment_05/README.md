@@ -34,6 +34,9 @@ Please note that all deliverables are under the `assignment_05` folder.
 5. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
 6. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
 7. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
+8. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
+9.  `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
+10. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
 
 ## References Used
 

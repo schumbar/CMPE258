@@ -29,7 +29,7 @@ Please note that all deliverables are under the `assignment_05` folder.
 
 1. `assignment_05/CMPE258_Assignment05_PartA.ipynb`: Google Colab implementing a 3-layer deep neural network for non-linear regression using numpy.
 2. `assignment_05/CMPE258_Assignment05_PartB.ipynb`: Google Colab implementing a 3-layer deep neural network for non-linear regression without using PyTorch built-in layer functionality.
-3. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
+3. `assignment_05/CMPE258_Assignment05_PartC.ipynb`: Google Colab implementing a 3-layer deep neural network for non-linear regression using PyTorch built-in functionality of modules, back propagation, etc.
 4. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
 5. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO
 6. `assignment_05/CMPE258_Assignment05_Part#.ipynb`: TODO

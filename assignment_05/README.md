@@ -33,6 +33,15 @@ Please note that all deliverables are under the `assignment_05` folder.
 4. `assignment_05/CMPE258_Assignment05_PartD.ipynb`: Google Colab for **PyTorch Lightning Version** portion of assignment.
 5. `assignment_05/CMPE258_Assignment05_PartE.ipynb`: Google Colab for **Tensorflow** portion of assignment. This includes scratch, built-in, low-level API, and high-level API.
 6. `assignment_05/CMPE258_Assignment05_PartF.ipynb`: Google Colab for **JAX** portion of assignment.
+7. `assignment_05/README.md`: Markdown file that contains the following:
+   - Assignment Guidelines
+   - Assignment Description
+   - Assignment Deliverables
+   - References Used
+8. [Demo Video](youtube.com): Video that contains the following:
+   - Code checked into GitHub
+   - Code walkthrough of the main sections
+   - Final output that is generated
 
 ## References Used
 

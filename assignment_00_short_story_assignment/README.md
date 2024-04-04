@@ -2,31 +2,39 @@
 
 ## Assignment Description
 
-Please ensure you fill in your project and short story assignment details in the [spreadsheet](https://docs.google.com/spreadsheets/d/1rB5PVINkWlICefwzG1HioCZQCYJJJcCCxOJHXipctfM/edit?usp=sharing).
+Before beginning the assignment, please ensure you fill in your project and short story assignment details in the [spreadsheet](https://docs.google.com/spreadsheets/d/1rB5PVINkWlICefwzG1HioCZQCYJJJcCCxOJHXipctfM/edit?usp=sharing).
 
-1. The short story assignment should be a paper review on large language models or foundation models.
-2. Some examples of topics can include but not limited to: tabular foundation models, graph foundation models, time-series foundation models, etc.
-3. The paper should be written in the second half of 2023 or 2024.
-4. It is strongly recommended to have a survey paper. If not, get a paper accepted in NIPS 2023, or ICML 2024, or ICLR 2024 etc. but should be very relevant.
-5. TurnItIn and other tools will be ran on the paper to ensure it is not auto generated or plagiarized.
-6. You will need to re-write the summary of the paper in your own words.
-7. You can search arxiv, google scholar, or other citations of an existing survey.
-8. You will publish a medium article with pictures and illustrations.
-9. The goal of the assignment is to go deep into one area, provide all the data from survey paper.
-10. The size and format should be structured.
-11. OPTIONAL: You can write your own survey paper yourself if you feel confident enough.
-12. Ensure that you have a paper and presentation review by one of your teammates. Ensure this is something that they understand fully and can provide feedback. Quote the paper on the bottom of your medium.com article.
-13. This is an individual assignment.
-14. Ensure that the deliverables are all in a public GitHub directory with a README.md file. You should include a slide deck, a youtube video explaining your short story, the paper with slides, and a medium article link. Be sure that you include the link to the GitHub directory within the spreadsheet.
-15. The video should be 15-25 minutes in length, the slides should be in either PDF or PPT format, and the medium article and slideshare link should be viewable as well.
+In this assignment, you are required to conduct a thorough review and analysis of a topic within the realm of Large Language Models or Foundation Models. This involves selecting a specific area of focus, such as tabular, graph, or time-series foundation models. Your primary objective is to explore this area in depth, providing a comprehensive understanding of the current advancements and insights in the field. The basis of your review should be scholarly papers written in the second half of 2023 or in 2024, with a preference for survey papers or those accepted at significant conferences like NIPS 2023, ICML 2024, or ICLR 2024. It is crucial that your work is original and authentic, avoiding any form of plagiarism or auto-generation, as it will be verified using tools like TurnItIn.
 
-Turn the content of the paper/topic into a nice article (PLEASE REMEMBER - DO NOT SUBMIT EXISTING MEDIUM ARTICLE - YOU HAVE TO WRITE MEDIUM ARTICLE FROM SCRATCH AND PUBLISH IT - not cut and paste test or use chatgpt - paraphrase and rewrite summarize - you can take pictures from the original paper - YOU NEED TO REFER THE PAPER details in the beginning or end of your article ) for publishing in medium.com (add more survey papers content together as well) - focus on gist rather than math depth - focus on architecture, ablation studies, metrics etc.,. rather than going into the weeds deeply. as many pictures and visualizations and your own two cents on papers.
+## Expected Assignment Deliverables
 
-### Short Story Assignment References
+1. **Research Paper Summary**: Rewrite the summary of your chosen paper in your own words, including a personal analysis. Utilize resources such as arXiv and Google Scholar for your research.
 
-### Short Story Assignment Resources for Writing Survey Paper (OPTIONAL)
+2. **Medium Article**: Publish an article on Medium that encapsulates the core ideas of your topic. Focus on architecture, ablation studies, and metrics, and enrich your article with visuals and personal insights. Avoid deep technical jargon and ensure the article is written from scratch.
+
+3. **Peer Review**: Have your work reviewed by a teammate. This review should ensure the clarity and comprehensibility of your content, and feedback should be incorporated. Reference the original paper in your Medium article.
+
+4. **YouTube Video**: Create a YouTube video (15-25 minutes long) that explains your topic in detail, goes over the paper that you created, and provides a presentation of the slides. This video should be accessible and shareable, providing a comprehensive overview of the paper and its findings. Include a link to your Medium article in the video description.
+
+5. **GitHub Repository**: Create a public GitHub directory for your assignment, including a README.md file. This repository should contain all the assignment elements: a slide deck, a YouTube video explanation, the paper with slides, and a link to your Medium article. Share the link to this repository in the provided spreadsheet.
+
+6. **Presentation Materials**: Prepare a video presentation (15-25 minutes long) and a slide deck (in PDF or PPT format). Both should be accessible and shareable, containing clear and concise information about your topic.
+
+Remember, the goal is to transform complex academic content into an engaging, accessible narrative that captures the essence of your chosen topic in Large Language Models or Foundation Models. Your individual interpretation and presentation are key to the success of this assignment.
+
+## Assignment Deliverables
+
+Please see below for a list of my assignment deliverables for the short story assignment. Please note that all short story assignment deliverables are under the `assignment_00_short_story_assignment/` folder.
+
+1. `README.md`: README file containing assignment description, deliverables, and references used.
+2. TODO.PDF: Research paper summary.
+3. [Medium Article](https://www.google.com/)
+4. [Youtube Video](https://www.google.com/)
+5. [Link to Presentation Slide Deck](https://www.google.com/)
 
 ### References
+
+#### Short Story Assignment Ideas
 
 You can view the following resources to get an idea for your short story assignment.
 
@@ -40,6 +48,8 @@ You can view the following resources to get an idea for your short story assignm
 8. [paperswithcode.com: large language models](https://paperswithcode.com/search?q_meta=&q_type=&q=large+language+models)
 9. [prompt tuning large language models survey arxiv](https://www.google.com/search?q=prompt+tuning+large+language+models+survey+arxiv&oq=prompt+tuning+large+language+models+survey+arxiv&aqs=chrome..69i57j33i160.7089j0j4&sourceid=chrome&ie=UTF-8)
 10. [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers)
+
+#### OPTIONAL: Survey Paper References
 
 The resources below can be used if you decide to write a survey paper, however this is not recommended.
 

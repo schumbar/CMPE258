@@ -38,7 +38,7 @@ Please note that all deliverables are under the `assignment_05` folder.
    - Assignment Description
    - Assignment Deliverables
    - References Used
-8. [Demo Video](youtube.com): Video that contains the following:
+8. [Demo Video](https://youtu.be/j7RrBw8sMng): Video that contains the following:
    - Code checked into GitHub
    - Code walkthrough of the main sections
    - Final output that is generated

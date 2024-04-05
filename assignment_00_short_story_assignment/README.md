@@ -28,9 +28,10 @@ Please see below for a list of my assignment deliverables for the short story as
 
 1. `README.md`: README file containing assignment description, deliverables, and references used.
 2. TODO.PDF: Research paper summary.
-3. [Medium Article](https://www.google.com/)
-4. [Youtube Video](https://www.google.com/)
-5. [Link to Presentation Slide Deck](https://www.google.com/)
+3. [Link to AIOS Research Paper](https://paperswithcode.com/paper/llm-agent-operating-system)
+4. [Medium Article](https://www.google.com/)
+5. [Youtube Video](https://www.google.com/)
+6. [Link to Presentation Slide Deck](https://www.google.com/)
 
 ### References
 

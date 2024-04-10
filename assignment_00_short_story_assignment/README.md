@@ -27,10 +27,11 @@ Remember, the goal is to transform complex academic content into an engaging, ac
 Please see below for a list of my assignment deliverables for the short story assignment. Please note that all short story assignment deliverables are under the `assignment_00_short_story_assignment/` folder.
 
 1. `README.md`: README file containing assignment description, deliverables, and references used.
-2. TODO.PDF: Research paper summary.
-3. [Medium Article](https://www.google.com/)
-4. [Youtube Video](https://www.google.com/)
-5. [Link to Presentation Slide Deck](https://www.google.com/)
+2. `AIOS_LLM_Agent_Operating_System.pdf`: PDF of the original survey paper about AIOS: LLM Agent Operating System.
+3. `CMPE258_short_story_chumbar.pdf`: Research paper summary of the original Survey paper.
+4. [Medium Article](https://medium.com/@shawn.chumbar/breaking-ground-with-aios-introducing-the-llm-agent-operating-system-90e4dd868137): Medium article that summarizes the research paper summary.
+5. [Youtube Video](https://www.google.com/)
+6. [Link to Presentation Slide Deck](https://www.google.com/)
 
 ### References
 

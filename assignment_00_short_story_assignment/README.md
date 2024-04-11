@@ -31,7 +31,7 @@ Please see below for a list of my assignment deliverables for the short story as
 3. `chumbar_summary.pdf`: Research paper summary of the original Survey paper.
 4. `schumbar_slide_deck.pdf`: Slide deck for YouTube video and presentation materials.
 5. [Medium Article](https://medium.com/@shawn.chumbar/breaking-ground-with-aios-introducing-the-llm-agent-operating-system-90e4dd868137): Medium article that summarizes the research paper summary.
-6. [Youtube Video](https://www.google.com/): TODO
+6. [Youtube Video](https://www.youtube.com/watch?v=jq7_Zz0WYtE): Youtube video showing me presenting my slide deck.
 
 ### References
 

@@ -28,10 +28,10 @@ Please see below for a list of my assignment deliverables for the short story as
 
 1. `README.md`: README file containing assignment description, deliverables, and references used.
 2. `AIOS_LLM_Agent_Operating_System.pdf`: PDF of the original survey paper about AIOS: LLM Agent Operating System.
-3. `CMPE258_short_story_chumbar.pdf`: Research paper summary of the original Survey paper.
-4. [Medium Article](https://medium.com/@shawn.chumbar/breaking-ground-with-aios-introducing-the-llm-agent-operating-system-90e4dd868137): Medium article that summarizes the research paper summary.
-5. [Youtube Video](https://www.google.com/)
-6. [Link to Presentation Slide Deck](https://www.google.com/)
+3. `chumbar_summary.pdf`: Research paper summary of the original Survey paper.
+4. `schumbar_slide_deck.pdf`: Slide deck for YouTube video and presentation materials.
+5. [Medium Article](https://medium.com/@shawn.chumbar/breaking-ground-with-aios-introducing-the-llm-agent-operating-system-90e4dd868137): Medium article that summarizes the research paper summary.
+6. [Youtube Video](https://www.google.com/): TODO
 
 ### References
 

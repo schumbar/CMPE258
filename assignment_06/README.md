@@ -96,7 +96,3 @@ Please note that all deliverables are under the `assignment_06` folder.
 9. [07_sizing_and_tta.ipynb](https://github.com/fastai/fastbook/blob/master/07_sizing_and_tta.ipynb)
 10. [11_training_deep_neural_networks.ipynb](https://github.com/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)
 11. [12_custom_models_and_training_with_tensorflow.ipynb](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb)
-
-## TODO
-
-- Demo Video

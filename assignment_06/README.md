@@ -78,7 +78,7 @@ Please note that all deliverables are under the `assignment_06` folder.
    - Assignment Description
    - Assignment Deliverables
    - References Used
-4. [Demo Video](https://youtube.com): Video that contains the following:
+4. [Demo Video](https://youtu.be/dF05aWT57zI): Video that contains the following:
    - Code checked into GitHub
    - Code walkthrough
    - Final output that is generated

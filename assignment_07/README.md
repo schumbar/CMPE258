@@ -11,7 +11,9 @@ Hint: See section labeled `Part 1 References`.
 ### Part 02 Description - Transfer Learning on Various Modalities
 
 Write simple colabs to transfer learn on images, videos, audios - with both as a feature extractor as well as a fine tuning usecases.
+
 Image: Showcase basic transfer learning for a classification task (either cats/dogs or breeds of dogs) in a colab - with both as a feature extractor as well as a fine tuning usecase
+
 Hint: See section labeled `Part 2 References`.
 
 ### Part 03 Description - Zero-Shot Transfer Learning
@@ -21,9 +23,12 @@ Write a colab showcasing the following:
 - zero-shot transfer learning using the CLIP model
 - transfer learning using state of art models from tfhub (Eg: use bigtransfer for example)
 
+Hint: See section labeled `Part 3 References`.
+
 ## Assignment Deliverables
 
 Please see below for the list of deliverables that have been submitted for this assignment.
+
 Please note that all deliverables are under the `assignment_07` folder.
 
 1. `assignment_07/CMPE258_Assignment07_Part01.ipynb`: Google Colab for Part 01 portion of assignment.

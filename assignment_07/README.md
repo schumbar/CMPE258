@@ -69,10 +69,4 @@ Please note that all deliverables are under the `assignment_07` folder.
 
 For part 3, do not restart the colab when prompted to do so. Be sure to hit the 'cancel' button and continue running the notebook.
 
-For part 3, you can use the following API key between the API_KEY characters: API_KEY--Yd1Cj1W2QbYVS4tvfkzE--API_KEY
-
-## TODO
-
-The following section describes quickly what still needs to be done for this assignment:
-
-- [ ] Complete Part 02 of the assignment.
+For part 3, you can use the following API key between the API_KEY string: API_KEY|Yd1Cj1W2QbYVS4tvfkzE|API_KEY
